@@ -9,7 +9,7 @@ Para usar o aplicativo, você precisa ter o Python instalado em seu computador. 
 
 ## instalação e configuração do venv
 
-![Virtual env](https://virtualenv.pypa.io/en/latest/installation.html)
+[Virtual env](https://virtualenv.pypa.io/en/latest/installation.html)
 
 ## Dependências
 
