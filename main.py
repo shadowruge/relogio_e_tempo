@@ -6,7 +6,7 @@ import time
 class WeatherApp(tk.Tk):
     """Weather application class"""
 
-    API_KEY = "27250b43ee3dba5b4cada9211e9b0758"
+    API_KEY = "aqui sua api key"
     LOCATION = "Rio de Janeiro,BR"
 
     def __init__(self):
